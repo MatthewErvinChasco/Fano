@@ -2,7 +2,7 @@
 This code generates unit quaternions in terms of the Dirac matrices.
 
 *makeOctonions.mlx*:
-This code generates unit octonions in terms of the Dirac matrices, in the Cayley-Dickson construction.
+This code generates unit octonions in terms of the Dirac matrices, in the Cayley-Dickson construction, using the Fano plane.
 
 *quaternionProduct.mlx*:
 This code computes the direct product of two quaternions. This also gives the dot product and cross product between the 3D components of the vectors.
