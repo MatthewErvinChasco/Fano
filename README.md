@@ -9,3 +9,5 @@ This code computes the direct product of two quaternions. This also gives the do
 
 *octonionProduct.mlx*:
 This code computes the direct product of two octonions. This also gives the dot product and cross product between the 7D components of the vectors.
+
+This code contains functions that use the MATLAB® Symbolic Math Toolbox™. The file *Example.mlx* is provided as a guide of use.
